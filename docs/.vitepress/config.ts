@@ -26,15 +26,15 @@ export default defineConfig({
       }
     ],
     ['meta', { name: 'theme-color', content: '#7c3aed' }],
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/docs/favicon.ico' }],
     [
       'link',
       {
         rel: 'apple-touch-icon',
-        href: '/apple-touch-icon.png'
+        href: '/docs/apple-touch-icon.png'
       }
     ],
-    ['link', { rel: 'manifest', href: '/site.webmanifest' }],
+    ['link', { rel: 'manifest', href: '/docs/site.webmanifest' }],
 
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:url', content: 'https://sikshya.mantrabrain.com/docs/' }],

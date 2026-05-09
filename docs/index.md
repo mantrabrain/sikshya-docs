@@ -41,7 +41,7 @@ next:
   </div>
 </div>
 
-## Browse the docs
+## Browse docs
 
 <div class="sikshya-cards">
 
@@ -55,8 +55,8 @@ next:
 <a class="sikshya-card sikshya-card--flagged" href="/admin-dashboard">
   <span class="sikshya-card__icon">🧭</span>
   <h3>Your WordPress admin</h3>
-  <p>Plain map of <strong>Course</strong>, <strong>People</strong>, <strong>Commerce</strong>, <strong>Addons</strong>—exactly how the Sikshya app labels them.</p>
-  <span class="sikshya-card__cta">Match the sidebar →</span>
+  <p>Plain map of <strong>Course</strong>, <strong>People</strong>, <strong>Commerce</strong>, <strong>Addons</strong>—exactly how Sikshya app labels them.</p>
+  <span class="sikshya-card__cta">Match sidebar →</span>
 </a>
 
 <a class="sikshya-card" href="/courses">
@@ -67,10 +67,10 @@ next:
 </a>
 
 <a class="sikshya-card" href="/learners">
-  <span class="sikshya-card__icon">🎓</span>
+  <span class="sikshya-card__icon">👥</span>
   <h3>Learners, roles &amp; progress</h3>
-  <p>Student / instructor / assistant roles, capabilities, dashboards, wishlist, certificates, and progress tracking.</p>
-  <span class="sikshya-card__cta">Run the academy →</span>
+  <p>Student dashboard, enrollments, progress tracking, role management, capabilities, course completion certificates.</p>
+  <span class="sikshya-card__cta">Manage students →</span>
 </a>
 
 <a class="sikshya-card" href="/enrollment-settings">
