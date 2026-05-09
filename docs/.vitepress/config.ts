@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/docs/sikshya/',
+  base: '/plugins/sikshya/docs/',
   title: 'Sikshya Documentation',
   description:
     'Official documentation for the Sikshya LMS WordPress plugin (Free + Pro).',
