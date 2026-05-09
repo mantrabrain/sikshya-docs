@@ -1,0 +1,39 @@
+{
+  "name": "sikshya-docs",
+  "version": "1.0.0",
+  "description": "Modern documentation website for Sikshya LMS WordPress plugin",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "serve": "vitepress preview docs"
+  },
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.40"
+  },
+  "devDependencies": {
+    "@vue/theme": "^2.2.0",
+    "flexsearch": "^0.7.43",
+    "markdown-it": "^14.0.0",
+    "vue": "^3.4.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "sikshya",
+    "wordpress",
+    "lms",
+    "online-courses",
+    "elearning",
+    "documentation",
+    "vitepress"
+  ],
+  "author": "MantraBrain",
+  "license": "GPL-2.0+",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mantrabrain/sikshya.git"
+  }
+}
