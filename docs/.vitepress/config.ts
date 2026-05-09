@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/plugins/sikshya/',
   title: 'Sikshya Documentation',
-  outDir: 'docs/.vitepress/dist/plugins/sikshya',
+  outDir: 'docs/.vitepress/dist/docs/',
   description:
     'Official documentation for the Sikshya LMS WordPress plugin (Free + Pro).',
   lang: 'en-US',
@@ -37,7 +37,7 @@ export default defineConfig({
     ['link', { rel: 'manifest', href: '/site.webmanifest' }],
 
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:url', content: 'https://docs.mantrabrain.com/plugins/sikshya/' }],
+    ['meta', { property: 'og:url', content: 'https://sikshya.mantrabrain.com/docs/' }],
     ['meta', { property: 'og:title', content: 'Sikshya Documentation' }],
     [
       'meta',
@@ -51,7 +51,7 @@ export default defineConfig({
       'meta',
       {
         property: 'og:image',
-        content: 'https://docs.mantrabrain.com/plugins/sikshya/og-image.png'
+        content: 'https://sikshya.mantrabrain.com/docs/og-image.png'
       }
     ],
 
@@ -69,7 +69,7 @@ export default defineConfig({
       'meta',
       {
         name: 'twitter:image',
-        content: 'https://docs.mantrabrain.com/plugins/sikshya/twitter-image.png'
+        content: 'https://sikshya.mantrabrain.com/docs/twitter-image.png'
       }
     ],
 
@@ -82,11 +82,11 @@ export default defineConfig({
         name: 'Sikshya Documentation',
         description:
           'Official documentation for the Sikshya LMS WordPress plugin (Free + Pro).',
-        url: 'https://docs.mantrabrain.com/plugins/sikshya/',
+        url: 'https://sikshya.mantrabrain.com/docs/',
         potentialAction: {
           '@type': 'SearchAction',
           target:
-            'https://docs.mantrabrain.com/plugins/sikshya/search?q={search_term_string}',
+            'https://sikshya.mantrabrain.com/docs/search?q={search_term_string}',
           'query-input': 'required name=search_term_string'
         }
       })
@@ -299,7 +299,7 @@ export default defineConfig({
   ignoreDeadLinks: true,
 
   sitemap: {
-    hostname: 'https://docs.mantrabrain.com/plugins/sikshya/'
+    hostname: 'https://sikshya.mantrabrain.com/docs/'
   },
 
   transformHead: ({ pageData }) => {
@@ -322,7 +322,7 @@ export default defineConfig({
         'link',
         {
           rel: 'canonical',
-          href: `https://docs.mantrabrain.com/plugins/sikshya/${pageData.relativePath.replace(
+          href: `https://sikshya.mantrabrain.com/docs/${pageData.relativePath.replace(
             '.md',
             ''
           )}`

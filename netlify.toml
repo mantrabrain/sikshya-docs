@@ -4,6 +4,10 @@
 
 [build.environment]
   NODE_VERSION = "18"
+[[redirects]]
+  from = "/*"
+  to = "/docs/:splat"
+  status = 200
 
 [[redirects]]
   from = "/plugins/sikshya/*"
