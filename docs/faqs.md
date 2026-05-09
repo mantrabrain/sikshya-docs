@@ -94,7 +94,7 @@ The free plugin ships **PayPal** (fully working) and **Offline / manual** (admin
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Recurring memberships</span>
   </div>
-  <p class="pro-callout__desc">Recurring billing is part of the <strong>Subscriptions</strong> add-on (Pro / Growth tier). The free tier focuses on one-time and free-course selling.</p>
+  <p class="pro-callout__desc">Recurring billing is part of the <strong>Subscriptions</strong> add-on (Growth tier). The free tier focuses on one-time and free-course selling.</p>
   <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock subscriptions →</a>
 </div>
 

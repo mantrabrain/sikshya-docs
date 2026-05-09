@@ -1,0 +1,21 @@
+{
+  "name": "Sikshya Documentation",
+  "short_name": "Sikshya Docs",
+  "description": "Official documentation for the Sikshya LMS WordPress plugin (Free + Pro)",
+  "lang": "en",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#7c3aed",
+  "start_url": "/docs/",
+  "scope": "/docs/",
+  "categories": ["education", "developer"],
+  "icons": [
+    {
+      "src": "/docs/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

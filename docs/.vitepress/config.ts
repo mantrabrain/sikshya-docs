@@ -269,6 +269,11 @@ export default defineConfig({
     docFooter: {
       prev: 'Previous',
       next: 'Next'
+    },
+
+    markdownSource: {
+      pattern:
+        'https://raw.githubusercontent.com/MantraBrain/sikshya-docs/main/docs/:path'
     }
   },
 
@@ -322,10 +327,14 @@ export default defineConfig({
         'link',
         {
           rel: 'canonical',
-          href: `https://sikshya.mantrabrain.com/docs/${pageData.relativePath.replace(
-            '.md',
-            ''
-          )}`
+          href: (() => {
+            const slug = pageData.relativePath
+              .replace(/\.md$/, '')
+              .replace(/(^|\/)index$/, '')
+            return slug
+              ? `https://sikshya.mantrabrain.com/docs/${slug}`
+              : 'https://sikshya.mantrabrain.com/docs/'
+          })()
         }
       ]
     ]

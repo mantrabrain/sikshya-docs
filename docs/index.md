@@ -111,10 +111,10 @@ next:
 </a>
 
 <a class="sikshya-card sikshya-card--flagged" href="/third-party-integrations">
-  <span class="doc-card-badge-pro"><span class="doc-pro-pill">Pro</span></span>
+  <span class="doc-card-badge-pro doc-card-badge-tiers"><span class="doc-tier-pill doc-tier-pill--starter">Starter</span><span class="doc-tier-pill doc-tier-pill--growth">Growth</span><span class="doc-tier-pill doc-tier-pill--scale">Scale</span></span>
   <span class="sikshya-card__icon">💎</span>
   <h3>Pro add-ons</h3>
-  <p>Add-on catalog (license + toggle). Mirrors <strong>Addons</strong>, <strong>Integrations</strong>, and gated sidebar badges.</p>
+  <p>Add-on catalog (license + toggle). Every feature lists its <strong>minimum tier</strong> on <a href="/addons">All add-ons</a>. Mirrors <strong>Add-ons</strong> in wp-admin.</p>
   <span class="sikshya-card__cta">Explore Pro →</span>
 </a>
 
@@ -200,7 +200,7 @@ next:
 | **Marketplace** (multi-vendor) + commissions                  | —    | ✅  |
 | **White label**, **multisite**, **multilingual**, **SCORM/H5P** | —  | ✅  |
 
-> Add-ons unlock at different Pro tiers (**Starter**, **Pro / Growth**, **Scale**). See the [add-on → tier matrix](/addons#plan-matrix) for which add-on is in which plan, or compare on the [pricing page](https://mantrabrain.com/plugins/sikshya/#pricing). Free sites still see gated menu rows with amber **Upgrade** badges — that's the same story as here.
+> Add-ons unlock at different paid tiers (**Starter**, **Growth**, **Scale**). Each add-on on [All add-ons](/addons) shows a **Starter**, **Growth**, or **Scale** badge — that’s the minimum plan that includes it. Full matrix: [add-on → tier](/addons#plan-matrix). Compare seats on the [pricing page](https://mantrabrain.com/plugins/sikshya/#pricing). Free sites still see gated menu rows with amber **Upgrade** badges — same idea as these docs.
 
 ## Need help fast?
 
@@ -253,17 +253,22 @@ next:
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
   gap: 0.5rem;
-  align-items: stretch;
+  align-items: start;
 }
 .sikshya-hero__chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.4rem;
   font-size: 0.82rem;
   font-weight: 500;
-  padding: 0.35rem 0.75rem;
+  padding: 0.4rem 0.95rem;
   border-radius: 999px;
   background: var(--vp-c-bg);
   color: var(--vp-c-text-2);
   border: 1px solid var(--vp-c-divider);
   line-height: 1.35;
+  text-align: center;
 }
 .sikshya-hero__chip--free {
   grid-column: span 1;

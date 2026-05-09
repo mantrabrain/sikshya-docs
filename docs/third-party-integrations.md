@@ -1,13 +1,13 @@
 ---
 title: Pro add-ons
-description: Every Sikshya Pro add-on with what it does, where you find it in the admin, and a direct link to upgrade. License plans gate Starter, Pro, and Scale tiers.
+description: Every Sikshya Pro add-on with what it does, where you find it in the admin, and a direct link to upgrade. License plans gate Starter, Growth, and Scale tiers.
 ---
 
 # Pro add-ons
 
 <div class="doc-pro-callout">
   <span class="doc-pro-pill">Pro</span>
-  <span><strong>Every add-on on this page is Sikshya Pro.</strong> Each card below tells you the minimum plan tier (Starter, Pro / Growth, Scale). For a flat one-card-per-add-on view plus a tier matrix, see <a href="/addons">All add-ons</a>.</span>
+  <span><strong>Every add-on on this page is Sikshya Pro.</strong> Each card below tells you the minimum plan tier (Starter, Growth, Scale). For a flat one-card-per-add-on view plus a tier matrix, see <a href="/addons">All add-ons</a>.</span>
   <a class="doc-pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing" target="_blank" rel="noopener">View pricing →</a>
 </div>
 
@@ -16,7 +16,7 @@ Sikshya Pro is a separate plugin you install on top of the free Sikshya LMS. Aft
 License plans control which add-ons you can turn on:
 
 - **Starter** — entry-level paid tier.
-- **Pro / Growth** — most use cases.
+- **Growth** — most use cases.
 - **Scale** — agency, enterprise, marketplace.
 
 Below is every add-on with what it does, where it lives in the admin, and an "Upgrade" link.
@@ -37,7 +37,7 @@ Below is every add-on with what it does, where it lives in the admin, and an "Up
 Sell several courses for one bundled price ("bootcamp pack"). Buyers are auto-enrolled in every course in the bundle.
 
 - **Where:** <span class="screen-path">Sikshya → Course → Courses → New → Course type: Bundle</span> and <span class="screen-path">Commerce → Bundles</span>.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -67,7 +67,7 @@ Star ratings and written reviews on the course page, with admin moderation.
 In-course discussion threads and Q&A panel with instructor moderation. Great for cohort programs.
 
 - **Where:** <span class="screen-path">Sikshya → Course → Discussions</span> after enabling.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -82,7 +82,7 @@ In-course discussion threads and Q&A panel with instructor moderation. Great for
 Assign multiple instructors per course. Set roles (Owner / Editor / Grader). Split revenue per course.
 
 - **Where:** <span class="screen-path">Sikshya → Course → Course staff</span> + the **Manage staff** action on each course row.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -112,7 +112,7 @@ A focused home page for instructors — their courses, their enrollments, their 
 Pin a Zoom or Google Meet URL to a lesson so learners always click the right link. Instructors can rotate the URL without re-publishing the lesson.
 
 - **Where:** lesson type **Live class** appears in the curriculum tab; settings under <span class="screen-path">Integrations → Live classes</span>.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -127,7 +127,7 @@ Pin a Zoom or Google Meet URL to a lesson so learners always click the right lin
 Embed packaged SCORM 1.2 / 2004 content or H5P interactives as a lesson. Tracks progress through the SCORM API.
 
 - **Where:** lesson types **SCORM** and **H5P** in the curriculum; settings under <span class="screen-path">Integrations → SCORM / H5P</span>.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -204,7 +204,7 @@ Dated schedule on the learner's account — enrollments, drip unlocks, assignmen
 Rubric grading, restricted file types, resubmissions, and a grading queue with filters (ungraded, late, failed).
 
 - **Where:** Course Builder → Curriculum → assignment editor; queue under <span class="screen-path">Grading & submissions → Assignment submissions</span>.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -219,7 +219,7 @@ Rubric grading, restricted file types, resubmissions, and a grading queue with f
 Reuse questions across many quizzes from a central **Question bank**. Random pools, randomization, advanced types.
 
 - **Where:** Course Builder → quiz editor; <span class="screen-path">Course → Content library → Question banks</span>.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -234,7 +234,7 @@ Reuse questions across many quizzes from a central **Question bank**. Random poo
 Per-learner / per-course grade view across quizzes and graded assignments. Export to CSV. Drilldown by quiz / assignment.
 
 - **Where:** <span class="screen-path">Grading & submissions → Gradebook</span> + <span class="screen-path">Letter grades & scales</span>.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -249,7 +249,7 @@ Per-learner / per-course grade view across quizzes and graded assignments. Expor
 Drag-and-drop certificate builder, more merge fields, QR codes, public verify pages.
 
 - **Where:** <span class="screen-path">Sikshya → Certificates → Templates</span> (new builder) and <span class="screen-path">Certificates → Add-on defaults</span>.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -266,7 +266,7 @@ Drag-and-drop certificate builder, more merge fields, QR codes, public verify pa
 Recurring billing — monthly / yearly plans for member-only academy access.
 
 - **Where:** <span class="screen-path">Commerce → Subscriptions</span>; new course type **Subscription only**.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -281,7 +281,7 @@ Recurring billing — monthly / yearly plans for member-only academy access.
 Minimum cart total, course / category restrictions, "first-time buyer only" rules, stacking guards.
 
 - **Where:** <span class="screen-path">Commerce → Coupons</span> — extra fields appear on each coupon.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -296,7 +296,7 @@ Minimum cart total, course / category restrictions, "first-time buyer only" rule
 Configurable checkout questions (text, select, checkbox) with conditional visibility.
 
 - **Where:** <span class="screen-path">Settings → Enrollment → Dynamic checkout fields</span>.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -311,7 +311,7 @@ Configurable checkout questions (text, select, checkbox) with conditional visibi
 Sign-in with Google (and other providers). One click instead of password fatigue.
 
 - **Where:** <span class="screen-path">Sikshya → Branding → Social login</span>.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -328,7 +328,7 @@ Sign-in with Google (and other providers). One click instead of password fatigue
 Detailed enrollment / progress / revenue exports for Excel and Sheets. Includes a learner self-export option.
 
 - **Where:** <span class="screen-path">Reports → Overview</span>; admin and learner export buttons.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -343,7 +343,7 @@ Detailed enrollment / progress / revenue exports for Excel and Sheets. Includes 
 Timeline of milestones — enrollment, completions, quiz attempts, submissions, checkout. Configurable retention.
 
 - **Where:** <span class="screen-path">Tools → Activity log</span>.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -375,7 +375,7 @@ Weekly KPI rollup emails for inbox-friendly executive snapshots.
 First-class ESP setup (SendGrid-style) plus a branded multi-template kit (header, footer, accent colors, logo).
 
 - **Where:** <span class="screen-path">Email → Delivery</span> — extra panels appear.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -390,7 +390,7 @@ First-class ESP setup (SendGrid-style) plus a branded multi-template kit (header
 Per-template HTML overrides, extra layout slots, conditional content blocks.
 
 - **Where:** template editor → extra panels.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -405,7 +405,7 @@ Per-template HTML overrides, extra layout slots, conditional content blocks.
 Trigger sequences (Day 0 → Day 3 → Day 7) on enrollment, completion, abandoned cart.
 
 - **Where:** dedicated screen after enabling.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -420,7 +420,7 @@ Trigger sequences (Day 0 → Day 3 → Day 7) on enrollment, completion, abandon
 Sync enrollments and completions to Mailchimp or MailerLite lists / segments automatically.
 
 - **Where:** <span class="screen-path">Integrations → Email marketing</span>.
-- **Plan:** Pro / Growth.
+- **Plan:** Growth.
 
 <div class="pro-callout">
   <div class="pro-callout__head">
@@ -543,7 +543,7 @@ Open <span class="screen-path">Sikshya → Add-ons</span>:
 
 - **Search** the catalog by name.
 - **Filter by category** (course, commerce, learner, communication, analytics, integrations, etc.).
-- **Tier filter** (Starter / Pro / Scale).
+- **Tier filter** (Starter / Growth / Scale).
 - **Sort** by importance, name, tier, or status.
 
 Each card shows:
