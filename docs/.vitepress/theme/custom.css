@@ -192,6 +192,78 @@
   margin: 1.5rem 0;
 }
 
+/* Main documentation cards grid */
+.sikshya-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.sikshya-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 1.5rem 1.25rem 1.15rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  text-decoration: none;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+  height: 100%;
+}
+
+.sikshya-card:hover {
+  border-color: var(--vp-c-brand-1);
+  transform: translateY(-2px);
+}
+
+.sikshya-card__icon {
+  font-size: 2rem;
+  color: var(--vp-c-brand-1);
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+}
+
+.sikshya-card__title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem;
+  color: var(--vp-c-text-1);
+  line-height: 1.4;
+}
+
+.sikshya-card__copy {
+  font-size: 0.875rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.6;
+  flex: 1;
+}
+
+.sikshya-card__copy strong {
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+}
+
+.sikshya-card__badge-pro {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  z-index: 1;
+  background: var(--vp-c-brand-1);
+  color: white;
+  padding: 0.125rem 0.5rem;
+  font-size: 0.625rem;
+  font-weight: 700;
+  border-radius: 999px;
+}
+
 .doc-addon-card {
   position: relative;
   display: flex;
