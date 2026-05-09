@@ -17,10 +17,10 @@ next:
       <span class="doc-pro-pill" title="Adds gateways, drip, bundles, marketplace, and more">Pro</span>
     </div>
     <h1 class="sikshya-hero__title">Teach online on your own WordPress site—courses, quizzes, checkout, learners.</h1>
-    <p class="sikshya-hero__lede">Creators use Sikshya to publish lessons, enroll students, and take payments <em>without renting</em> another LMS. The <strong>free plugin</strong> includes PayPal checkout; <strong>Sikshya Pro</strong> unlocks Stripe, more gateways, drip content, bundles, subscriptions, and dozens of togglable add-ons.<br /><span style="margin-top:.6rem;display:inline-block;color:var(--vp-c-text-2);font-size:0.95rem;">New here? Jump to Install, then read <a href="/admin-dashboard">Your WordPress admin</a>—it mirrors the Sikshya sidebar one-to-one.</span></p>
+    <p class="sikshya-hero__lede">Creators use Sikshya to publish lessons, enroll students, and take payments <em>without renting</em> another LMS. The <strong>free plugin</strong> includes PayPal checkout; <strong>Sikshya Pro</strong> unlocks Stripe, more gateways, drip content, bundles, subscriptions, and dozens of togglable add-ons.<br /><span style="margin-top:.6rem;display:inline-block;color:var(--vp-c-text-2);font-size:0.95rem;">New here? Jump to Install, then read <a href="/docs/admin-dashboard">Your WordPress admin</a>—it mirrors the Sikshya sidebar one-to-one.</span></p>
     <div class="sikshya-hero__actions">
-      <a class="sikshya-btn sikshya-btn--primary" href="/installation">Install Sikshya (free)</a>
-      <a class="sikshya-btn sikshya-btn--ghost" href="/quick-start">Setup wizard</a>
+      <a class="sikshya-btn sikshya-btn--primary" href="/docs/installation">Install Sikshya (free)</a>
+      <a class="sikshya-btn sikshya-btn--ghost" href="/docs/quick-start">Setup wizard</a>
       <a class="doc-btn-pro" href="https://mantrabrain.com/plugins/sikshya/#pricing" target="_blank" rel="noopener">Get Sikshya Pro</a>
     </div>
     <p class="sikshya-hero__chip-label">What you need to run Sikshya:</p>
@@ -37,7 +37,7 @@ next:
   <p class="doc-pro-banner__copy"><strong><span class="doc-pro-pill">Pro</span> Need drip, bundles, Stripe, gradebook, or marketplace?</strong> Install Sikshya Pro and turn add-ons on under <strong>Addons</strong>. The sidebar badges you’ll see (<em>Upgrade</em> / <em>Off</em>) mean the same thing these docs labels as <strong>Pro</strong>.</p>
   <div class="doc-pro-banner__actions">
     <a class="doc-btn-pro" href="https://mantrabrain.com/plugins/sikshya/#pricing" target="_blank" rel="noopener">View pricing &amp; buy</a>
-    <a class="doc-btn-pro-ghost" href="/third-party-integrations">Browse add-ons →</a>
+    <a class="doc-btn-pro-ghost" href="/docs/third-party-integrations">Browse add-ons →</a>
   </div>
 </div>
 
@@ -45,42 +45,42 @@ next:
 
 <div class="sikshya-cards">
 
-<a class="sikshya-card" href="/installation">
+<a class="sikshya-card" href="/docs/installation">
   <span class="sikshya-card__icon">📦</span>
   <h3>Install &amp; setup</h3>
   <p>Free + Pro ZIP, Composer note, wizard, licenses, pages, permalinks.</p>
   <span class="sikshya-card__cta">Get started →</span>
 </a>
 
-<a class="sikshya-card sikshya-card--flagged" href="/admin-dashboard">
+<a class="sikshya-card sikshya-card--flagged" href="/docs/admin-dashboard">
   <span class="sikshya-card__icon">🧭</span>
   <h3>Your WordPress admin</h3>
   <p>Plain map of <strong>Course</strong>, <strong>People</strong>, <strong>Commerce</strong>, <strong>Addons</strong>—exactly how Sikshya app labels them.</p>
   <span class="sikshya-card__cta">Match sidebar →</span>
 </a>
 
-<a class="sikshya-card" href="/courses">
+<a class="sikshya-card" href="/docs/courses">
   <span class="sikshya-card__icon">📚</span>
   <h3>Courses &amp; curriculum</h3>
   <p>Course builder, chapters, lessons (text / video / downloads), quizzes, assignments, certificates, categories &amp; tags.</p>
   <span class="sikshya-card__cta">Build courses →</span>
 </a>
 
-<a class="sikshya-card" href="/learners">
+<a class="sikshya-card" href="/docs/learners">
   <span class="sikshya-card__icon">👥</span>
   <h3>Learners, roles &amp; progress</h3>
   <p>Student dashboard, enrollments, progress tracking, role management, capabilities, course completion certificates.</p>
   <span class="sikshya-card__cta">Manage students →</span>
 </a>
 
-<a class="sikshya-card" href="/enrollment-settings">
+<a class="sikshya-card" href="/docs/enrollment-settings">
   <span class="sikshya-card__icon">🔐</span>
   <h3>Enrollment &amp; access</h3>
   <p>Manual enroll, free self-enroll, paid enrollment, sequential progression, drip (Pro), and prerequisites (Pro).</p>
   <span class="sikshya-card__cta">Configure access →</span>
 </a>
 
-<a class="sikshya-card sikshya-card--flagged" href="/payment-settings">
+<a class="sikshya-card sikshya-card--flagged" href="/docs/payment-settings">
   <span class="doc-card-badge-pro"><span class="doc-pro-pill">Pro extra</span></span>
   <span class="sikshya-card__icon">💳</span>
   <h3>Payments</h3>
@@ -88,7 +88,7 @@ next:
   <span class="sikshya-card__cta">Configure gateways →</span>
 </a>
 
-<a class="sikshya-card sikshya-card--flagged" href="/email-settings">
+<a class="sikshya-card sikshya-card--flagged" href="/docs/email-settings">
   <span class="doc-card-badge-pro"><span class="doc-pro-pill">Pro extra</span></span>
   <span class="sikshya-card__icon">✉️</span>
   <h3>Email &amp; notifications</h3>
@@ -96,71 +96,71 @@ next:
   <span class="sikshya-card__cta">Send emails →</span>
 </a>
 
-<a class="sikshya-card" href="/shortcodes">
+<a class="sikshya-card" href="/docs/shortcodes">
   <span class="sikshya-card__icon">⚙️</span>
   <h3>Shortcodes</h3>
   <p><code>[sikshya_courses]</code>, <code>[sikshya_login]</code>, <code>[sikshya_registration]</code> — every attribute, default, and example.</p>
   <span class="sikshya-card__cta">View reference →</span>
 </a>
 
-<a class="sikshya-card" href="/elementor-integration">
+<a class="sikshya-card" href="/docs/elementor-integration">
   <span class="sikshya-card__icon">🧱</span>
   <h3>Blocks &amp; page builders</h3>
   <p>How Sikshya works with the Block editor (Gutenberg), Elementor, Divi, and other builders via shortcodes and templates.</p>
   <span class="sikshya-card__cta">Place catalog widgets →</span>
 </a>
 
-<a class="sikshya-card sikshya-card--flagged" href="/third-party-integrations">
+<a class="sikshya-card sikshya-card--flagged" href="/docs/third-party-integrations">
   <span class="doc-card-badge-pro doc-card-badge-tiers"><span class="doc-tier-pill doc-tier-pill--starter">Starter</span><span class="doc-tier-pill doc-tier-pill--growth">Growth</span><span class="doc-tier-pill doc-tier-pill--scale">Scale</span></span>
   <span class="sikshya-card__icon">💎</span>
   <h3>Pro add-ons</h3>
-  <p>Add-on catalog (license + toggle). Every feature lists its <strong>minimum tier</strong> on <a href="/addons">All add-ons</a>. Mirrors <strong>Add-ons</strong> in wp-admin.</p>
+  <p>Add-on catalog (license + toggle). Every feature lists its <strong>minimum tier</strong> on <a href="/docs/addons">All add-ons</a>. Mirrors <strong>Add-ons</strong> in wp-admin.</p>
   <span class="sikshya-card__cta">Explore Pro →</span>
 </a>
 
-<a class="sikshya-card" href="/woocommerce-integration">
+<a class="sikshya-card" href="/docs/woocommerce-integration">
   <span class="sikshya-card__icon">🛒</span>
   <h3>WooCommerce &amp; co-existence</h3>
   <p>How Sikshya runs alongside WooCommerce, plus notes on multilingual, caching, SEO, and multisite networks.</p>
   <span class="sikshya-card__cta">Co-exist cleanly →</span>
 </a>
 
-<a class="sikshya-card" href="/api-reference">
+<a class="sikshya-card" href="/docs/api-reference">
   <span class="sikshya-card__icon">🔌</span>
   <h3>REST API</h3>
   <p>Routes under <code>/wp-json/sikshya/v1/</code> — courses, enrollments, learner progress, checkout, license, and Pro add-on routes.</p>
   <span class="sikshya-card__cta">Read API docs →</span>
 </a>
 
-<a class="sikshya-card" href="/hooks-filters">
+<a class="sikshya-card" href="/docs/hooks-filters">
   <span class="sikshya-card__icon">🪝</span>
   <h3>Hooks &amp; filters</h3>
   <p>The actions and filters Sikshya exposes for enrollments, lesson completion, quizzes, payments, certificates, and add-ons.</p>
   <span class="sikshya-card__cta">Extend Sikshya →</span>
 </a>
 
-<a class="sikshya-card" href="/faqs">
+<a class="sikshya-card" href="/docs/faqs">
   <span class="sikshya-card__icon">❓</span>
   <h3>FAQs</h3>
   <p>Free vs Pro, payments, themes, multisite, SCORM, certificates, GDPR, multilingual, and the most-asked LMS questions.</p>
   <span class="sikshya-card__cta">Find answers →</span>
 </a>
 
-<a class="sikshya-card" href="/troubleshooting">
+<a class="sikshya-card" href="/docs/troubleshooting">
   <span class="sikshya-card__icon">🛠️</span>
   <h3>Troubleshooting</h3>
   <p>Permalinks, REST 404s, gateway sandbox mode, email deliverability, cache plugins, role/capability oddities, and the dreaded white screen.</p>
   <span class="sikshya-card__cta">Fix issues →</span>
 </a>
 
-<a class="sikshya-card" href="/changelog">
+<a class="sikshya-card" href="/docs/changelog">
   <span class="sikshya-card__icon">📜</span>
   <h3>Changelog</h3>
   <p>Recent free and Pro releases — what changed, what to test, and the safe upgrade path.</p>
   <span class="sikshya-card__cta">See releases →</span>
 </a>
 
-<a class="sikshya-card" href="/support">
+<a class="sikshya-card" href="/docs/support">
   <span class="sikshya-card__icon">💬</span>
   <h3>Get support</h3>
   <p>WordPress.org forum, GitHub, the Facebook community, Pro priority support, and how to file a useful bug report.</p>
