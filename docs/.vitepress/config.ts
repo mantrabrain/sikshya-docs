@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/plugins/sikshya/',
+  base: '/docs/',
   title: 'Sikshya Documentation',
   outDir: 'docs/.vitepress/dist/docs/',
   description:
