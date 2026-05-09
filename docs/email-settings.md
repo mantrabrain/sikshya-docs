@@ -88,35 +88,99 @@ Click any template name to open the editor:
 - **Template name** — internal label (won't change behavior).
 - **Description** — short note for your team.
 - **Trigger event** — system templates show this as read-only; custom templates let you pick from the trigger list.
-- **Send to (merge tags)** — who receives this. Use tags like `{{learner_email}}`, `{{instructor_email}}`, `{{admin_email}}`.
-- **Subject line** — supports merge tags (e.g. "Welcome to {{site_name}}!").
+- **Send to (merge tags)** — who receives this. Use tags like <span v-pre><code>{{learner_email}}</code>, <code>{{instructor_email}}</code>, <code>{{admin_email}}</code></span>.
+- **Subject line** — supports merge tags (e.g. <span v-pre>"Welcome to <code>{{site_name}}</code>!"</span>).
 - **Email body (HTML)** — the full message. The right rail lists every variable you can use; click one to copy.
 
 ### Available merge tags
 
-The most-used:
+<!-- Merge-tag table in v-pre so literal curly braces render (VitePress/Vue otherwise interpolates them). -->
+<div v-pre>
 
-| Tag                         | Renders                              |
-| ---                         | ---                                  |
-| `{{site_name}}`             | Your site / academy name             |
-| `{{site_url}}`              | Site root URL                         |
-| `{{learner_name}}`          | Learner's display name                |
-| `{{learner_first_name}}`    | First name (parsed)                   |
-| `{{learner_email}}`         | Learner's email                       |
-| `{{course_title}}`          | Course title                          |
-| `{{course_url}}`            | Permalink to the course               |
-| `{{lesson_title}}`          | Lesson title (where applicable)       |
-| `{{quiz_title}}`            | Quiz title                            |
-| `{{order_id}}`              | Sikshya order id                      |
-| `{{order_total}}`           | Total in display currency             |
-| `{{order_url}}`             | Order detail URL                      |
-| `{{certificate_url}}`       | Issued certificate URL                |
-| `{{instructor_name}}`       | Instructor display name               |
-| `{{login_url}}`             | Login URL                             |
-| `{{account_url}}`           | Learner account URL                   |
-| `{{date}}` / `{{time}}`     | Now (site timezone)                   |
+<p>The most-used:</p>
 
-Whitespace inside braces is OK — `{{ course_title }}` works the same as `{{course_title}}`.
+<table>
+  <thead>
+    <tr>
+      <th>Tag</th>
+      <th>Renders</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>{{site_name}}</code></td>
+      <td>Your site / academy name</td>
+    </tr>
+    <tr>
+      <td><code>{{site_url}}</code></td>
+      <td>Site root URL</td>
+    </tr>
+    <tr>
+      <td><code>{{learner_name}}</code></td>
+      <td>Learner's display name</td>
+    </tr>
+    <tr>
+      <td><code>{{learner_first_name}}</code></td>
+      <td>First name (parsed)</td>
+    </tr>
+    <tr>
+      <td><code>{{learner_email}}</code></td>
+      <td>Learner's email</td>
+    </tr>
+    <tr>
+      <td><code>{{course_title}}</code></td>
+      <td>Course title</td>
+    </tr>
+    <tr>
+      <td><code>{{course_url}}</code></td>
+      <td>Permalink to the course</td>
+    </tr>
+    <tr>
+      <td><code>{{lesson_title}}</code></td>
+      <td>Lesson title (where applicable)</td>
+    </tr>
+    <tr>
+      <td><code>{{quiz_title}}</code></td>
+      <td>Quiz title</td>
+    </tr>
+    <tr>
+      <td><code>{{order_id}}</code></td>
+      <td>Sikshya order id</td>
+    </tr>
+    <tr>
+      <td><code>{{order_total}}</code></td>
+      <td>Total in display currency</td>
+    </tr>
+    <tr>
+      <td><code>{{order_url}}</code></td>
+      <td>Order detail URL</td>
+    </tr>
+    <tr>
+      <td><code>{{certificate_url}}</code></td>
+      <td>Issued certificate URL</td>
+    </tr>
+    <tr>
+      <td><code>{{instructor_name}}</code></td>
+      <td>Instructor display name</td>
+    </tr>
+    <tr>
+      <td><code>{{login_url}}</code></td>
+      <td>Login URL</td>
+    </tr>
+    <tr>
+      <td><code>{{account_url}}</code></td>
+      <td>Learner account URL</td>
+    </tr>
+    <tr>
+      <td><code>{{date}}</code> / <code>{{time}}</code></td>
+      <td>Now (site timezone)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Whitespace inside braces is OK — <code>{{ course_title }}</code> works the same as <code>{{course_title}}</code>.</p>
+
+</div>
 
 ### Locked templates
 
