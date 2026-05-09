@@ -51,7 +51,7 @@ For each application you'll see:
 - **Approve** button → grants the `sikshya_instructor` role and they can now create courses.
 - **Reject** button → declines (you can write a short note).
 
-<div class="ui-tip"><strong>Why two-step approval?</strong> Approving manually is intentional friction — it stops random sign-ups from appearing as authors on your site. If you trust everyone, automate it with a small custom plugin (see <a href="/hooks-filters#authentication-instructor-lifecycle">hooks reference</a>).</div>
+<div class="ui-tip"><strong>Why two-step approval?</strong> Approving manually is intentional friction — it stops random sign-ups from appearing as authors on your site. If you trust everyone, automate it with a small custom plugin (see <a href="/docs/hooks-filters#authentication-instructor-lifecycle">hooks reference</a>).</div>
 
 ## Enrollments
 

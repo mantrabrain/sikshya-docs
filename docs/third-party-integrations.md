@@ -7,7 +7,7 @@ description: Every Sikshya Pro add-on with what it does, where you find it in th
 
 <div class="doc-pro-callout">
   <span class="doc-pro-pill">Pro</span>
-  <span><strong>Every add-on on this page is Sikshya Pro.</strong> Each card below tells you the minimum plan tier (Starter, Growth, Scale). For a flat one-card-per-add-on view plus a tier matrix, see <a href="/addons">All add-ons</a>.</span>
+  <span><strong>Every add-on on this page is Sikshya Pro.</strong> Each card below tells you the minimum plan tier (Starter, Growth, Scale). For a flat one-card-per-add-on view plus a tier matrix, see <a href="/docs/addons">All add-ons</a>.</span>
   <a class="doc-pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing" target="_blank" rel="noopener">View pricing →</a>
 </div>
 

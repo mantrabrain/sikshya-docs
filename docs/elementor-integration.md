@@ -13,7 +13,7 @@ Sikshya doesn't ship a dedicated Sikshya block yet — use the built-in **Shortc
 
 <ol class="step-list">
   <li>Add a new <strong>Shortcode</strong> block.</li>
-  <li>Paste any of the <a href="/shortcodes">Sikshya shortcodes</a>:</li>
+  <li>Paste any of the <a href="/docs/shortcodes">Sikshya shortcodes</a>:</li>
 </ol>
 
 ```text
