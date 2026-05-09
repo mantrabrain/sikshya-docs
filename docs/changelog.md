@@ -99,6 +99,6 @@ The current roadmap is published on the [Mantrabrain product page](https://mantr
 
 ## Related
 
-- [Installation](/guide/installation) — confirm your version after update.
-- [Troubleshooting](/guide/troubleshooting) — common post-update issues.
-- [Support](/guide/support) — get help with a problematic update.
+- [Installation](/installation) — confirm your version after update.
+- [Troubleshooting](/troubleshooting) — common post-update issues.
+- [Support](/support) — get help with a problematic update.

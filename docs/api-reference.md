@@ -299,6 +299,6 @@ add_action('sikshya_register_addon_rest_routes', function ($server) {
 
 ## Related
 
-- [Hooks & filters](/guide/hooks-filters) — when in doubt, hooks beat polling REST.
-- [Pro add-ons](/guide/third-party-integrations) — REST routes per add-on.
+- [Hooks & filters](/hooks-filters) — when in doubt, hooks beat polling REST.
+- [Pro add-ons](/third-party-integrations) — REST routes per add-on.
 - [Architecture](https://github.com/MantraBrain/sikshya/blob/main/docs/ARCHITECTURE.md) — layered design behind every REST handler.

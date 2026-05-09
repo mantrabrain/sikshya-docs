@@ -200,6 +200,6 @@ add_filter('sikshya_public_api_allowed_user_ids', function ($ids) {
 
 ## Related
 
-- [REST API](/guide/api-reference) — every route on `/wp-json/sikshya/v1/`.
-- [Pro add-ons](/guide/third-party-integrations) — features behind feature flags.
+- [REST API](/api-reference) — every route on `/wp-json/sikshya/v1/`.
+- [Pro add-ons](/third-party-integrations) — features behind feature flags.
 - [Architecture](https://github.com/MantraBrain/sikshya/blob/main/docs/ARCHITECTURE.md) — layered design (controller → service → repo → model → template).

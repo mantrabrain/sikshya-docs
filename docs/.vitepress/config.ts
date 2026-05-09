@@ -91,8 +91,10 @@ export default defineConfig({
     ]
   ],
 
+  cleanUrls: true,
+
   themeConfig: {
-    logo: '/logo.png',
+    logo: '/logo.svg',
     siteTitle: 'Sikshya Docs',
 
     nav: [
@@ -103,31 +105,33 @@ export default defineConfig({
           {
             text: 'Get started',
             items: [
-              { text: 'Installation', link: '/guide/installation' },
-              { text: 'Quick start', link: '/guide/quick-start' }
+              { text: 'Installation', link: '/installation' },
+              { text: 'Quick start', link: '/quick-start' },
+              { text: 'Your WordPress admin', link: '/admin-dashboard' }
             ]
           },
           {
             text: 'Build & teach',
             items: [
-              { text: 'Courses & curriculum', link: '/guide/courses' },
-              { text: 'Learners, roles & progress', link: '/guide/learners' },
-              { text: 'Enrollment & access', link: '/guide/enrollment-settings' },
-              { text: 'Payments', link: '/guide/payment-settings' },
-              { text: 'Email & notifications', link: '/guide/email-settings' }
+              { text: 'Courses & curriculum', link: '/courses' },
+              { text: 'Learners, roles & progress', link: '/learners' },
+              { text: 'Enrollment & access', link: '/enrollment-settings' },
+              { text: 'Payments', link: '/payment-settings' },
+              { text: 'Email & notifications', link: '/email-settings' }
             ]
           },
           {
             text: 'Integrate',
             items: [
-              { text: 'Pro add-ons', link: '/guide/third-party-integrations' },
+              { text: 'Pro add-ons overview', link: '/third-party-integrations' },
+              { text: 'All add-ons', link: '/addons' },
               {
                 text: 'Blocks & page builders',
-                link: '/guide/elementor-integration'
+                link: '/elementor-integration'
               },
               {
                 text: 'WooCommerce co-existence',
-                link: '/guide/woocommerce-integration'
+                link: '/woocommerce-integration'
               }
             ]
           }
@@ -136,19 +140,26 @@ export default defineConfig({
       {
         text: 'Reference',
         items: [
-          { text: 'Shortcodes', link: '/guide/shortcodes' },
-          { text: 'Hooks & filters', link: '/guide/hooks-filters' },
-          { text: 'REST API', link: '/guide/api-reference' }
+          { text: 'Shortcodes', link: '/shortcodes' },
+          { text: 'Hooks & filters', link: '/hooks-filters' },
+          { text: 'REST API', link: '/api-reference' }
         ]
       },
       {
         text: 'Help',
         items: [
-          { text: 'FAQs', link: '/guide/faqs' },
-          { text: 'Troubleshooting', link: '/guide/troubleshooting' },
-          { text: 'Changelog', link: '/guide/changelog' },
-          { text: 'Support', link: '/guide/support' }
+          { text: 'FAQs', link: '/faqs' },
+          { text: 'Troubleshooting', link: '/troubleshooting' },
+          { text: 'Privacy & usage tracking', link: '/privacy-tracking' },
+          { text: 'Changelog', link: '/changelog' },
+          { text: 'Support', link: '/support' }
         ]
+      },
+      {
+        text: 'Sikshya Pro',
+        link: 'https://mantrabrain.com/plugins/sikshya/#pricing',
+        target: '_blank',
+        rel: 'noopener'
       },
       {
         text: 'mantrabrain.com',
@@ -163,33 +174,35 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Home', link: '/' },
-          { text: 'Installation', link: '/guide/installation' },
-          { text: 'Quick start (setup wizard)', link: '/guide/quick-start' }
+          { text: 'Installation', link: '/installation' },
+          { text: 'Quick start (setup wizard)', link: '/quick-start' },
+          { text: 'Your WordPress admin', link: '/admin-dashboard' }
         ]
       },
       {
         text: 'Build & teach',
         collapsed: false,
         items: [
-          { text: 'Courses & curriculum', link: '/guide/courses' },
-          { text: 'Learners, roles & progress', link: '/guide/learners' },
-          { text: 'Enrollment & access', link: '/guide/enrollment-settings' },
-          { text: 'Payments', link: '/guide/payment-settings' },
-          { text: 'Email & notifications', link: '/guide/email-settings' }
+          { text: 'Courses & curriculum', link: '/courses' },
+          { text: 'Learners, roles & progress', link: '/learners' },
+          { text: 'Enrollment & access', link: '/enrollment-settings' },
+          { text: 'Payments', link: '/payment-settings' },
+          { text: 'Email & notifications', link: '/email-settings' }
         ]
       },
       {
         text: 'Integrate',
         collapsed: false,
         items: [
-          { text: 'Pro add-ons', link: '/guide/third-party-integrations' },
+          { text: 'Pro add-ons overview', link: '/third-party-integrations' },
+          { text: 'All add-ons', link: '/addons' },
           {
             text: 'Blocks & page builders',
-            link: '/guide/elementor-integration'
+            link: '/elementor-integration'
           },
           {
             text: 'WooCommerce & co-existence',
-            link: '/guide/woocommerce-integration'
+            link: '/woocommerce-integration'
           }
         ]
       },
@@ -197,19 +210,20 @@ export default defineConfig({
         text: 'Reference',
         collapsed: false,
         items: [
-          { text: 'Shortcodes', link: '/guide/shortcodes' },
-          { text: 'Hooks & filters', link: '/guide/hooks-filters' },
-          { text: 'REST API', link: '/guide/api-reference' }
+          { text: 'Shortcodes', link: '/shortcodes' },
+          { text: 'Hooks & filters', link: '/hooks-filters' },
+          { text: 'REST API', link: '/api-reference' }
         ]
       },
       {
         text: 'Help',
         collapsed: false,
         items: [
-          { text: 'FAQs', link: '/guide/faqs' },
-          { text: 'Troubleshooting', link: '/guide/troubleshooting' },
-          { text: 'Changelog', link: '/guide/changelog' },
-          { text: 'Support', link: '/guide/support' }
+          { text: 'FAQs', link: '/faqs' },
+          { text: 'Troubleshooting', link: '/troubleshooting' },
+          { text: 'Privacy & usage tracking', link: '/privacy-tracking' },
+          { text: 'Changelog', link: '/changelog' },
+          { text: 'Support', link: '/support' }
         ]
       }
     ],
@@ -223,7 +237,7 @@ export default defineConfig({
 
     footer: {
       message:
-        'Sikshya is a project by <a href="https://mantrabrain.com">MantraBrain</a>. Released under GPLv2 or later.',
+        '© MantraBrain · GPLv2+ · <a href="https://mantrabrain.com/plugins/sikshya/#pricing" target="_blank" rel="noopener"><strong>Sikshya Pro</strong> — pricing</a>',
       copyright: `Copyright © ${new Date().getFullYear()} MantraBrain`
     },
 
