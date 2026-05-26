@@ -97,4 +97,4 @@ Sample data import and maintenance. [Quick start](/quick-start).
 
 - New site: [Quick start](/quick-start), then **Courses → Add**.  
 - Selling: [Payments](/payment-settings).  
-- Upgrading: [Get Sikshya Pro](https://mantrabrain.com/plugins/sikshya/#pricing).
+- Upgrading: [Get Sikshya Pro](https://mantrabrain.com/plugins/sikshya-lms/pricing/).

@@ -10,7 +10,7 @@ This is the **flat catalog** — every Sikshya Pro add-on plus every premium gat
 <div class="doc-pro-callout">
   <span class="doc-pro-pill">Pro</span>
   <span><strong>Everything below is a paid add-on</strong> (Sikshya Pro). Plans are <span class="doc-tier-pill doc-tier-pill--starter">Starter</span>, <span class="doc-tier-pill doc-tier-pill--growth">Growth</span>, and <span class="doc-tier-pill doc-tier-pill--scale">Scale</span> — <strong>each card’s badge is the minimum plan</strong> that includes that add-on. Activate a license under <em>Sikshya → License</em> and toggle add-ons under <em>Sikshya → Add-ons</em>.</span>
-  <a class="doc-pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing" target="_blank" rel="noopener">View pricing →</a>
+  <a class="doc-pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/" target="_blank" rel="noopener">View pricing →</a>
 </div>
 
 <p class="doc-tier-legend"><strong>Badge legend:</strong> <span class="doc-tier-pill doc-tier-pill--starter">Starter</span> = available on <strong>Starter</strong> and every higher plan. <span class="doc-tier-pill doc-tier-pill--growth">Growth</span> = needs <strong>Growth</strong> or <strong>Scale</strong>. <span class="doc-tier-pill doc-tier-pill--scale">Scale</span> = <strong>Scale</strong> only. Higher plans always include everything from lower tiers.</p>
@@ -72,7 +72,7 @@ Sikshya Pro ships in three tiers. Each add-on lists its **minimum tier** — any
 | White label & branding | — | — | ✅ |
 | Zapier | — | — | ✅ |
 
-> Tier names may vary slightly on the [pricing page](https://mantrabrain.com/plugins/sikshya/#pricing) — always treat that page as the source of truth for what's bundled and the latest seat counts.
+> Tier names may vary slightly on the [pricing page](https://mantrabrain.com/plugins/sikshya-lms/pricing/) — always treat that page as the source of truth for what's bundled and the latest seat counts.
 
 ## Premium payment gateways
 
@@ -372,4 +372,4 @@ Sikshya Pro ships in three tiers. Each add-on lists its **minimum tier** — any
 - [Pro add-ons overview](/third-party-integrations) — grouped by what they do.
 - [Payments & gateways](/payment-settings) — gateway-by-gateway setup.
 - [Email & notifications](/email-settings) — Pro email automation details.
-- [Pricing](https://mantrabrain.com/plugins/sikshya/#pricing) — pick the plan that includes the add-ons you need.
+- [Pricing](https://mantrabrain.com/plugins/sikshya-lms/pricing/) — pick the plan that includes the add-ons you need.

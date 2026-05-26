@@ -21,14 +21,14 @@ next:
     <div class="sikshya-hero__actions">
       <a class="sikshya-btn sikshya-btn--primary" href="/docs/installation">Install Sikshya (free)</a>
       <a class="sikshya-btn sikshya-btn--ghost" href="/docs/quick-start">Setup wizard</a>
-      <a class="doc-btn-pro" href="https://mantrabrain.com/plugins/sikshya/#pricing" target="_blank" rel="noopener">Get Sikshya Pro</a>
+      <a class="doc-btn-pro" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/" target="_blank" rel="noopener">Get Sikshya Pro</a>
     </div>
     <p class="sikshya-hero__chip-label">What you need to run Sikshya:</p>
     <div class="sikshya-hero__chip-grid" role="list">
       <span class="sikshya-hero__chip" role="listitem">WordPress 6.0+</span>
       <span class="sikshya-hero__chip" role="listitem">PHP 7.4+</span>
       <span class="sikshya-hero__chip sikshya-hero__chip--free" role="listitem"><strong>Free</strong> PayPal checkout</span>
-      <span class="sikshya-hero__chip sikshya-hero__chip--prolane" role="listitem"><span class="doc-pro-pill">Pro</span> Stripe + Razorpay · Mollie · Paystack · Square · Authorize.Net · Bank Transfer<a class="doc-pro-upgrade-link" href="https://mantrabrain.com/plugins/sikshya/#pricing" target="_blank" rel="noopener">Compare plans →</a></span>
+      <span class="sikshya-hero__chip sikshya-hero__chip--prolane" role="listitem"><span class="doc-pro-pill">Pro</span> Stripe + Razorpay · Mollie · Paystack · Square · Authorize.Net · Bank Transfer<a class="doc-pro-upgrade-link" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/" target="_blank" rel="noopener">Compare plans →</a></span>
     </div>
   </div>
 </div>
@@ -36,7 +36,7 @@ next:
 <div class="doc-pro-banner" role="note">
   <p class="doc-pro-banner__copy"><strong><span class="doc-pro-pill">Pro</span> Need drip, bundles, Stripe, gradebook, or marketplace?</strong> Install Sikshya Pro and turn add-ons on under <strong>Addons</strong>. The sidebar badges you’ll see (<em>Upgrade</em> / <em>Off</em>) mean the same thing these docs labels as <strong>Pro</strong>.</p>
   <div class="doc-pro-banner__actions">
-    <a class="doc-btn-pro" href="https://mantrabrain.com/plugins/sikshya/#pricing" target="_blank" rel="noopener">View pricing &amp; buy</a>
+    <a class="doc-btn-pro" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/" target="_blank" rel="noopener">View pricing &amp; buy</a>
     <a class="doc-btn-pro-ghost" href="/docs/third-party-integrations">Browse add-ons →</a>
   </div>
 </div>
@@ -200,7 +200,7 @@ next:
 | **Marketplace** (multi-vendor) + commissions                  | —    | ✅  |
 | **White label**, **multisite**, **multilingual**, **SCORM/H5P** | —  | ✅  |
 
-> Add-ons unlock at different paid tiers (**Starter**, **Growth**, **Scale**). Each add-on on [All add-ons](/addons) shows a **Starter**, **Growth**, or **Scale** badge — that’s the minimum plan that includes it. Full matrix: [add-on → tier](/addons#plan-matrix). Compare seats on the [pricing page](https://mantrabrain.com/plugins/sikshya/#pricing). Free sites still see gated menu rows with amber **Upgrade** badges — same idea as these docs.
+> Add-ons unlock at different paid tiers (**Starter**, **Growth**, **Scale**). Each add-on on [All add-ons](/addons) shows a **Starter**, **Growth**, or **Scale** badge — that’s the minimum plan that includes it. Full matrix: [add-on → tier](/addons#plan-matrix). Compare seats on the [pricing page](https://mantrabrain.com/plugins/sikshya-lms/pricing/). Free sites still see gated menu rows with amber **Upgrade** badges — same idea as these docs.
 
 ## Need help fast?
 
@@ -208,7 +208,7 @@ next:
 - 🧪 Try Sikshya in WordPress Playground via [try.new/plugins/sikshya](https://try.new/plugins/sikshya/).
 - 🐛 File issues on [GitHub](https://github.com/MantraBrain) or post in the [WordPress.org support forum](https://wordpress.org/support/plugin/sikshya/).
 - 👥 Join the [Sikshya LMS Facebook Community](https://www.facebook.com/groups/sikshyalms/) for peer discussion.
-- 💎 Pro license holders get [priority support](https://mantrabrain.com/plugins/sikshya/#pricing) — see [Support](/support) for routing details.
+- 💎 Pro license holders get [priority support](https://mantrabrain.com/plugins/sikshya-lms/pricing/) — see [Support](/support) for routing details.
 
 <style>
 .sikshya-hero {

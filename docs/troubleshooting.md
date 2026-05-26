@@ -46,7 +46,7 @@ This page lists the issues we see most often and the fastest way through them.
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Unlock Stripe + 5 more gateways</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Compare Pro plans →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Compare Pro plans →</a>
 </div>
 
 ## "PayPal webhook shows but no order is fulfilled"
@@ -97,7 +97,7 @@ This page lists the issues we see most often and the fastest way through them.
     <span class="pro-callout__title">Professional email delivery</span>
   </div>
   <p class="pro-callout__desc">The Pro <strong>Professional email delivery &amp; branded templates</strong> add-on streamlines ESP setup with a guided UI and adds a branded multi-template kit.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock branded delivery →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock branded delivery →</a>
 </div>
 
 ## "Apply to teach doesn't grant the role"

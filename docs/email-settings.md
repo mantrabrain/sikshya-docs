@@ -8,7 +8,7 @@ description: Edit the transactional emails Sikshya sends, configure deliverabili
 <div class="doc-pro-callout">
   <span class="doc-pro-pill">Pro</span>
   <span><strong>Branded templates, drip notifications, ESP delivery &amp; CRM automation are Sikshya Pro.</strong> The free plugin sends every transactional email out of the box.</span>
-  <a class="doc-pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing" target="_blank" rel="noopener">View pricing →</a>
+  <a class="doc-pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/" target="_blank" rel="noopener">View pricing →</a>
 </div>
 
 Sikshya sends transactional emails at every important moment — welcome, enrollment, purchase, completion, certificate issued. This page is the practical guide for editing them, making them deliverable, and unlocking branded / automated email with Pro.
@@ -192,7 +192,7 @@ Some rows show a lock icon and "Add-on required" text. These templates only rend
     <span class="pro-callout__title">Drip notifications</span>
   </div>
   <p class="pro-callout__desc">When you use the <strong>Content drip</strong> add-on, the <strong>Drip notifications</strong> add-on emails learners when their next lesson unlocks. Three templates: lesson unlocked, course unlocked, daily digest. Combine them with drip rules for a paced cohort experience.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock drip notifications →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock drip notifications →</a>
 </div>
 
 ## Test a template
@@ -218,7 +218,7 @@ Sikshya Pro layers four email-related add-ons on top of the free transactional p
     <span class="pro-callout__title">Professional email delivery &amp; branded templates</span>
   </div>
   <p class="pro-callout__desc">Plug Sikshya into a real transactional ESP with a guided UI (no third-party plugin needed) and wrap every message in a branded multi-template kit (header, footer, accent color, logo).</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock branded delivery →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock branded delivery →</a>
 </div>
 
 <div class="pro-callout">
@@ -227,7 +227,7 @@ Sikshya Pro layers four email-related add-ons on top of the free transactional p
     <span class="pro-callout__title">Email advanced customization</span>
   </div>
   <p class="pro-callout__desc">Per-template HTML overrides, extra layout slots, conditional content blocks (different copy for different course categories).</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock advanced customization →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock advanced customization →</a>
 </div>
 
 <div class="pro-callout">
@@ -236,7 +236,7 @@ Sikshya Pro layers four email-related add-ons on top of the free transactional p
     <span class="pro-callout__title">CRM email automation</span>
   </div>
   <p class="pro-callout__desc">Trigger sequences (Day 0 → Day 3 → Day 7 → Day 14) on enrollment, completion, abandoned cart. Each step is a template; the engine handles timing and branching.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock CRM sequences →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock CRM sequences →</a>
 </div>
 
 <div class="pro-callout">
@@ -245,7 +245,7 @@ Sikshya Pro layers four email-related add-ons on top of the free transactional p
     <span class="pro-callout__title">Email marketing (Mailchimp / MailerLite)</span>
   </div>
   <p class="pro-callout__desc">Sync enrollments and completions to a Mailchimp or MailerLite list / segment automatically. Run drip campaigns and broadcasts in your marketing tool, fed by Sikshya activity.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock marketing sync →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock marketing sync →</a>
 </div>
 
 ## Logs

@@ -53,7 +53,7 @@ You'll see a new **Sikshya** item appear in the WordPress admin sidebar.
     <span class="pro-callout__title">Sikshya Pro is the upgrade plugin</span>
   </div>
   <p class="pro-callout__desc">Sikshya Pro is a separate plugin that unlocks licensed add-ons — Stripe, Razorpay, Mollie, Paystack, Square, Authorize.Net, Bank Transfer gateways; subscriptions; bundles; multi-instructor; gradebook; advanced certificates; drip; prerequisites; webhooks; marketplace; and more. The free plugin must be installed and active first.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">View Sikshya Pro plans →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">View Sikshya Pro plans →</a>
 </div>
 
 If you bought a Pro license:
@@ -99,7 +99,7 @@ Sikshya is **Network: true** — it can be activated across a WordPress multisit
     <span class="pro-callout__title">Multisite license tools</span>
   </div>
   <p class="pro-callout__desc">If you run a network with many subsites, the <strong>Multisite &amp; network license tools</strong> add-on (Scale plan) helps you manage license slots across the network.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">See Scale plan →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">See Scale plan →</a>
 </div>
 
 ## What's next

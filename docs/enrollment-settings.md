@@ -38,7 +38,7 @@ Open <span class="screen-path">Sikshya → Settings → Enrollment</span>. Secti
     <span class="pro-callout__title">Custom checkout questions</span>
   </div>
   <p class="pro-callout__desc">Add VAT IDs, referral source, consent checkboxes, or T-shirt size to checkout. Every field can be text, select, or checkbox — with simple visibility rules (show this field only when the buyer picks "Other"). Answers are stored on the order and the learner profile.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock dynamic fields →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock dynamic fields →</a>
 </div>
 
 ### Course completion
@@ -77,7 +77,7 @@ Toggle per-course in the Course Builder → **Course options** → **Track stude
     <span class="pro-callout__title">Content drip — date / X-days / cohort schedules</span>
   </div>
   <p class="pro-callout__desc">Want lessons to release "on March 15", "7 days after each learner enrolls", or "on day 14 of cohort A"? That's <strong>Content drip</strong>. Visit <span class="screen-path">Sikshya → Course → Learning rules → Scheduled access</span> after enabling the add-on.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock content drip →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock content drip →</a>
 </div>
 
 Drip rules live on a dedicated screen. Each rule specifies:
@@ -97,7 +97,7 @@ Combine drip with **Drip notifications** <span class="pro-pill">PRO</span> for "
     <span class="pro-callout__title">Require courses or lessons before unlocking the next</span>
   </div>
   <p class="pro-callout__desc">Lock <strong>Course B</strong> until the learner has finished <strong>Course A</strong>. Or lock the "Final exam" lesson until the prep lessons are complete. Friendly "what to do next" messaging is built in.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock prerequisites →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock prerequisites →</a>
 </div>
 
 Find prerequisites under <span class="screen-path">Sikshya → Course → Learning rules → Prerequisites</span> after enabling the add-on, or set per-course in the Course Builder → **Pricing & access** tab.
@@ -125,7 +125,7 @@ Click **Save**. Test the coupon at checkout in a private window before sharing i
     <span class="pro-callout__title">Advanced coupons</span>
   </div>
   <p class="pro-callout__desc">Add minimum cart total, course / category exclusions, "first-time buyer only" rules, and stacking guards (allow / deny combining coupons).</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock advanced coupons →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock advanced coupons →</a>
 </div>
 
 ## Bundles & subscriptions <span class="pro-pill">PRO</span>
@@ -136,7 +136,7 @@ Click **Save**. Test the coupon at checkout in a private window before sharing i
     <span class="pro-callout__title">Sell bundles and recurring subscriptions</span>
   </div>
   <p class="pro-callout__desc">Bundle several courses for one bundled price (Course Bundles add-on). Or charge monthly / yearly for member-only access (Subscriptions add-on). Both unlock new "course type" options in the Course Builder.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock bundles &amp; subscriptions →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock bundles &amp; subscriptions →</a>
 </div>
 
 Bundles live under <span class="screen-path">Sikshya → Commerce → Bundles</span> and have their own builder. Subscriptions add a **Subscriptions** menu and a **Plans** sub-screen for monthly / yearly tier configuration.
@@ -149,7 +149,7 @@ Bundles live under <span class="screen-path">Sikshya → Commerce → Bundles</s
     <span class="pro-callout__title">Multi-vendor marketplace</span>
   </div>
   <p class="pro-callout__desc">Open the academy to many independent sellers (vendors). Each vendor has their own storefront. Set per-vendor / per-course commission, manage payouts, and report on GMV.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock the marketplace →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock the marketplace →</a>
 </div>
 
 Find it under <span class="screen-path">Sikshya → Commerce → Marketplace</span> after the **Marketplace multi-vendor** add-on is on.

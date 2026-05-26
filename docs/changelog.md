@@ -92,7 +92,7 @@ Pro tracks free's `MAJOR` baseline closely but ships its own `MINOR` / `PATCH` c
 
 ## Roadmap
 
-The current roadmap is published on the [Mantrabrain product page](https://mantrabrain.com/plugins/sikshya/) and changelog notes mirror the public-facing items. Priority items for upcoming releases:
+The current roadmap is published on the [Mantrabrain product page](https://mantrabrain.com/plugins/sikshya-lms/) and changelog notes mirror the public-facing items. Priority items for upcoming releases:
 
 - **Free:** mobile-first lesson player polish, better course archive filters, additional default certificate presets.
 - **Pro:** additional CRM / ESP integrations, deeper Zapier triggers, improved live class workflows, expanded marketplace tools.

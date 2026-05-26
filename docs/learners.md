@@ -112,7 +112,7 @@ Use a role plugin like **Members** or **User Role Editor** to fine-tune individu
     <span class="pro-callout__title">Multi-instructor &amp; revenue split</span>
   </div>
   <p class="pro-callout__desc">Assign multiple instructors per course (Owner / Editor / Grader roles) and split revenue automatically. Instructors get their own dashboard with earnings and payout requests.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock multi-instructor →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock multi-instructor →</a>
 </div>
 
 ## Quiz attempts
@@ -141,7 +141,7 @@ For assignments, open <span class="screen-path">Sikshya → Grading &amp; submis
     <span class="pro-callout__title">Gradebook &amp; assignment grading queue</span>
   </div>
   <p class="pro-callout__desc">Without Pro, you grade assignments one at a time from each lesson's editor. With <strong>Gradebook</strong> + <strong>Advanced assignments</strong> on, you get a unified queue with filters (ungraded, late, failed), rubric-based grading, restricted file types, and per-learner / per-course score export.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock the gradebook →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock the gradebook →</a>
 </div>
 
 ## Certificates
@@ -172,7 +172,7 @@ Visible only when **Advanced certificates** is on. Set defaults like QR placemen
     <span class="pro-callout__title">Advanced certificates (drag-drop builder + QR verification)</span>
   </div>
   <p class="pro-callout__desc">Replace the basic presets with your own branded templates designed visually. Add merge fields (instructor name, score, serial number, completion date), and a <strong>QR code</strong> that links to a public verify page (<code>/certificate-verify?serial=...</code>) so anyone can confirm authenticity.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock advanced certificates →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock advanced certificates →</a>
 </div>
 
 ## What learners actually see

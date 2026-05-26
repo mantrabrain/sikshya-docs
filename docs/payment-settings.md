@@ -8,7 +8,7 @@ description: Connect PayPal in the free Sikshya plugin, plus the Pro premium gat
 <div class="doc-pro-callout">
   <span class="doc-pro-pill">Pro</span>
   <span><strong>Stripe &amp; other premium gateways are Sikshya Pro.</strong> The free plugin ships PayPal &amp; Offline. Activate a license under <em>Sikshya → License</em> to unlock the rest.</span>
-  <a class="doc-pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing" target="_blank" rel="noopener">View pricing →</a>
+  <a class="doc-pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/" target="_blank" rel="noopener">View pricing →</a>
 </div>
 
 Sikshya's free plugin includes **PayPal** as a fully-working gateway and **Offline / manual** for B2B or invoiced sales. **Stripe is not in the free plugin** — Stripe and the other premium gateways (Razorpay, Mollie, Paystack, Square, Authorize.Net, Bank Transfer) are **Pro-only add-ons** that you turn on under <span class="screen-path">Sikshya → Add-ons</span> after activating a license.
@@ -95,7 +95,7 @@ When a learner picks **Offline** at checkout, Sikshya creates a **Pending** orde
     <span class="pro-callout__title">Stripe — cards, wallets, and recurring billing</span>
   </div>
   <p class="pro-callout__desc">Stripe is a <strong>Pro-only</strong> gateway — it isn't bundled with the free Sikshya plugin. After activating a Pro license and toggling the Stripe add-on under <span class="screen-path">Sikshya → Add-ons</span>, the gateway shows up in <span class="screen-path">Settings → Payment</span>. With Pro you can also pair Stripe with the <strong>Subscriptions</strong> add-on for recurring courses.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock Stripe →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock Stripe →</a>
 </div>
 
 Setup (after activating Pro):
@@ -163,7 +163,7 @@ These details show on the order page. The order is **Pending** until you mark it
     <span class="pro-callout__title">Six premium gateways + bank transfer</span>
   </div>
   <p class="pro-callout__desc">Razorpay, Mollie, Paystack, Square, Authorize.Net, and Bank Transfer are all part of Sikshya Pro. One license, every gateway you'll need.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Compare Pro plans →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Compare Pro plans →</a>
 </div>
 
 ## Refunds

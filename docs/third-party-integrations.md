@@ -8,7 +8,7 @@ description: Every Sikshya Pro add-on with what it does, where you find it in th
 <div class="doc-pro-callout">
   <span class="doc-pro-pill">Pro</span>
   <span><strong>Every add-on on this page is Sikshya Pro.</strong> Each card below tells you the minimum plan tier (Starter, Growth, Scale). For a flat one-card-per-add-on view plus a tier matrix, see <a href="/docs/addons">All add-ons</a>.</span>
-  <a class="doc-pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing" target="_blank" rel="noopener">View pricing →</a>
+  <a class="doc-pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/" target="_blank" rel="noopener">View pricing →</a>
 </div>
 
 Sikshya Pro is a separate plugin you install on top of the free Sikshya LMS. After activating your license under <span class="screen-path">Sikshya → License</span>, you toggle individual add-ons in <span class="screen-path">Sikshya → Add-ons</span>.
@@ -27,7 +27,7 @@ Below is every add-on with what it does, where it lives in the admin, and an "Up
     <span class="pro-callout__title">Compare plans</span>
   </div>
   <p class="pro-callout__desc">All plans include free updates and priority support. Pick the plan that includes the add-ons you need — you can always upgrade later.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Compare Sikshya Pro plans →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Compare Sikshya Pro plans →</a>
 </div>
 
 ## Build (curriculum & assets)
@@ -44,7 +44,7 @@ Sell several courses for one bundled price ("bootcamp pack"). Buyers are auto-en
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Course bundles</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock bundles →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock bundles →</a>
 </div>
 
 ### Course reviews & ratings
@@ -59,7 +59,7 @@ Star ratings and written reviews on the course page, with admin moderation.
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Course reviews &amp; ratings</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock reviews →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock reviews →</a>
 </div>
 
 ### Course discussions & Q&A
@@ -74,7 +74,7 @@ In-course discussion threads and Q&A panel with instructor moderation. Great for
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Course discussions &amp; Q&amp;A</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock discussions →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock discussions →</a>
 </div>
 
 ### Multi-instructor & co-authors
@@ -89,7 +89,7 @@ Assign multiple instructors per course. Set roles (Owner / Editor / Grader). Spl
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Multi-instructor &amp; co-authors</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock multi-instructor →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock multi-instructor →</a>
 </div>
 
 ### Instructor dashboard
@@ -104,7 +104,7 @@ A focused home page for instructors — their courses, their enrollments, their 
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Instructor dashboard</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock the instructor dashboard →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock the instructor dashboard →</a>
 </div>
 
 ### Live classes (Zoom / Meet / Classroom)
@@ -119,7 +119,7 @@ Pin a Zoom or Google Meet URL to a lesson so learners always click the right lin
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Live classes (Zoom / Meet)</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock live classes →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock live classes →</a>
 </div>
 
 ### SCORM / H5P
@@ -134,7 +134,7 @@ Embed packaged SCORM 1.2 / 2004 content or H5P interactives as a lesson. Tracks 
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">SCORM / H5P</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock SCORM / H5P →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock SCORM / H5P →</a>
 </div>
 
 ## Teach (assessment, automation, learner journey)
@@ -151,7 +151,7 @@ Release lessons by date, X-days-from-enrollment, or cohort start. Replace "compl
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Content drip</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock content drip →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock content drip →</a>
 </div>
 
 ### Drip & automation emails
@@ -166,7 +166,7 @@ Release lessons by date, X-days-from-enrollment, or cohort start. Replace "compl
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Drip notifications</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock drip notifications →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock drip notifications →</a>
 </div>
 
 ### Prerequisites (lessons & courses)
@@ -181,7 +181,7 @@ Require completion of chosen lessons or whole courses before the next step unloc
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Prerequisites</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock prerequisites →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock prerequisites →</a>
 </div>
 
 ### Calendar
@@ -196,7 +196,7 @@ Dated schedule on the learner's account — enrollments, drip unlocks, assignmen
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Calendar</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock calendar →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock calendar →</a>
 </div>
 
 ### Advanced assignments
@@ -211,7 +211,7 @@ Rubric grading, restricted file types, resubmissions, and a grading queue with f
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Advanced assignments</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock advanced assignments →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock advanced assignments →</a>
 </div>
 
 ### Advanced quiz types & question banks
@@ -226,7 +226,7 @@ Reuse questions across many quizzes from a central **Question bank**. Random poo
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Advanced quiz types</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock advanced quizzes →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock advanced quizzes →</a>
 </div>
 
 ### Gradebook
@@ -241,7 +241,7 @@ Per-learner / per-course grade view across quizzes and graded assignments. Expor
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Gradebook</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock gradebook →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock gradebook →</a>
 </div>
 
 ### Advanced certificates (builder, QR, verification)
@@ -256,7 +256,7 @@ Drag-and-drop certificate builder, more merge fields, QR codes, public verify pa
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Advanced certificates</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock advanced certificates →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock advanced certificates →</a>
 </div>
 
 ## Sell (revenue growth)
@@ -273,7 +273,7 @@ Recurring billing — monthly / yearly plans for member-only academy access.
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Subscriptions &amp; memberships</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock subscriptions →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock subscriptions →</a>
 </div>
 
 ### Advanced coupons & upsells
@@ -288,7 +288,7 @@ Minimum cart total, course / category restrictions, "first-time buyer only" rule
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Advanced coupons</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock advanced coupons →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock advanced coupons →</a>
 </div>
 
 ### Dynamic checkout fields
@@ -303,7 +303,7 @@ Configurable checkout questions (text, select, checkbox) with conditional visibi
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Dynamic checkout fields</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock dynamic fields →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock dynamic fields →</a>
 </div>
 
 ### Social login
@@ -318,7 +318,7 @@ Sign-in with Google (and other providers). One click instead of password fatigue
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Social login</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock social login →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock social login →</a>
 </div>
 
 ## Operate (analytics, reporting, audit)
@@ -335,7 +335,7 @@ Detailed enrollment / progress / revenue exports for Excel and Sheets. Includes 
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Advanced analytics &amp; exports</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock advanced analytics →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock advanced analytics →</a>
 </div>
 
 ### Student activity log
@@ -350,7 +350,7 @@ Timeline of milestones — enrollment, completions, quiz attempts, submissions, 
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Student activity log</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock the activity log →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock the activity log →</a>
 </div>
 
 ### Enterprise reporting
@@ -365,7 +365,7 @@ Weekly KPI rollup emails for inbox-friendly executive snapshots.
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Enterprise reporting</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock enterprise reporting →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock enterprise reporting →</a>
 </div>
 
 ## Communicate (email, marketing, automation)
@@ -382,7 +382,7 @@ First-class ESP setup (SendGrid-style) plus a branded multi-template kit (header
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Professional email delivery &amp; branded templates</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock branded delivery →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock branded delivery →</a>
 </div>
 
 ### Email advanced customization
@@ -397,7 +397,7 @@ Per-template HTML overrides, extra layout slots, conditional content blocks.
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Email advanced customization</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock email customization →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock email customization →</a>
 </div>
 
 ### CRM email automation
@@ -412,7 +412,7 @@ Trigger sequences (Day 0 → Day 3 → Day 7) on enrollment, completion, abandon
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">CRM email automation</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock CRM automation →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock CRM automation →</a>
 </div>
 
 ### Email marketing (Mailchimp / MailerLite)
@@ -427,7 +427,7 @@ Sync enrollments and completions to Mailchimp or MailerLite lists / segments aut
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Email marketing</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock email marketing →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock email marketing →</a>
 </div>
 
 ### Webhooks
@@ -442,7 +442,7 @@ Deliver signed JSON to your HTTPS endpoints whenever LMS events fire (purchase, 
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Webhooks</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock webhooks →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock webhooks →</a>
 </div>
 
 ### Zapier
@@ -457,7 +457,7 @@ First-class Zapier triggers and actions. Sikshya events fan out into thousands o
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Zapier</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock Zapier →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock Zapier →</a>
 </div>
 
 ### Public API & API keys
@@ -472,7 +472,7 @@ Issue revocable API keys for partners and bespoke integrations. Scoped permissio
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Public API &amp; API keys</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock the public API →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock the public API →</a>
 </div>
 
 ## Scale (marketplace, branding, enterprise)
@@ -489,7 +489,7 @@ Open the academy to many independent vendors with their own storefronts. Set per
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Multi-vendor marketplace</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock the marketplace →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock the marketplace →</a>
 </div>
 
 ### White label & branding
@@ -504,7 +504,7 @@ Replace Sikshya labels in admin and learner UI with your own brand (logo, naming
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">White label &amp; branding</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock white label →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock white label →</a>
 </div>
 
 ### Multisite & network license tools
@@ -519,7 +519,7 @@ Manage license slots across many subsites of a WordPress multisite network from 
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Multisite &amp; network license tools</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock multisite tools →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock multisite tools →</a>
 </div>
 
 ### Multilingual (WPML / Weglot)
@@ -534,7 +534,7 @@ Bridge Sikshya's interface strings into WPML / Weglot translation stacks. Multil
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Multilingual (WPML / Weglot)</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock multilingual →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock multilingual →</a>
 </div>
 
 ## Manage your add-ons

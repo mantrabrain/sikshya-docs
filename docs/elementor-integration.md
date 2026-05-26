@@ -110,7 +110,7 @@ Sikshya's text domain is `sikshya`.
     <span class="pro-callout__title">Multilingual (WPML / Weglot)</span>
   </div>
   <p class="pro-callout__desc">Bridge Sikshya's interface strings into WPML or Weglot translation stacks for fully multilingual catalogs.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock multilingual →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock multilingual →</a>
 </div>
 
 ## SEO plugins

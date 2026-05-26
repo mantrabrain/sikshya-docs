@@ -22,7 +22,7 @@ Sikshya is supported in four places, depending on what you need.
     <span class="pro-callout__title">Priority support is included with every Pro plan</span>
   </div>
   <p class="pro-callout__desc">Pro license holders get faster response times via the priority queue. Severity-1 ("site down") tickets are escalated.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Compare Pro plans →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Compare Pro plans →</a>
 </div>
 
 ## Filing a useful bug report
@@ -146,7 +146,7 @@ We prioritize features that solve a problem affecting many sites, fit Sikshya's 
 
 - 📖 [Sikshya documentation](https://docs.mantrabrain.com/sikshya-wordpress-plugin/) — official docs hub.
 - 🧪 [Try Sikshya in Playground](https://try.new/plugins/sikshya/) — kick the tires without installing locally.
-- 🛒 [Buy Sikshya Pro](https://mantrabrain.com/plugins/sikshya/#pricing) — license plans.
+- 🛒 [Buy Sikshya Pro](https://mantrabrain.com/plugins/sikshya-lms/pricing/) — license plans.
 - 👥 [Facebook Community](https://www.facebook.com/groups/sikshyalms/) — peer chat.
 - 🐙 [GitHub](https://github.com/MantraBrain) — issues and source.
 - 📨 [Contact Mantrabrain](https://mantrabrain.com/contact/) — sales + support.

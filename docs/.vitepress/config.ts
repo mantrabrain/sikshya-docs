@@ -159,13 +159,13 @@ export default defineConfig({
       },
       {
         text: 'Sikshya Pro',
-        link: 'https://mantrabrain.com/plugins/sikshya/#pricing',
+        link: 'https://mantrabrain.com/plugins/sikshya-lms/pricing/',
         target: '_blank',
         rel: 'noopener'
       },
       {
         text: 'mantrabrain.com',
-        link: 'https://mantrabrain.com/plugins/sikshya/',
+        link: 'https://mantrabrain.com/plugins/sikshya-lms/',
         target: '_blank'
       }
     ],
@@ -239,7 +239,7 @@ export default defineConfig({
 
     footer: {
       message:
-        '© MantraBrain · GPLv2+ · <a href="https://mantrabrain.com/plugins/sikshya/#pricing" target="_blank" rel="noopener"><strong>Sikshya Pro</strong> — pricing</a>',
+        '© MantraBrain · GPLv2+ · <a href="https://mantrabrain.com/plugins/sikshya-lms/pricing/" target="_blank" rel="noopener"><strong>Sikshya Pro</strong> — pricing</a>',
       copyright: `Copyright © ${new Date().getFullYear()} MantraBrain`
     },
 

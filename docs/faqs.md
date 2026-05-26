@@ -84,7 +84,7 @@ The free plugin ships **PayPal** (fully working) and **Offline / manual** (admin
     <span class="pro-callout__badge">PRO</span>
     <span class="pro-callout__title">Six premium gateways + bank transfer</span>
   </div>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Compare Sikshya Pro plans →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Compare Sikshya Pro plans →</a>
 </div>
 
 ### Does Sikshya support subscriptions?
@@ -95,7 +95,7 @@ The free plugin ships **PayPal** (fully working) and **Offline / manual** (admin
     <span class="pro-callout__title">Recurring memberships</span>
   </div>
   <p class="pro-callout__desc">Recurring billing is part of the <strong>Subscriptions</strong> add-on (Growth tier). The free tier focuses on one-time and free-course selling.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock subscriptions →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock subscriptions →</a>
 </div>
 
 ### Can I issue refunds?
@@ -132,7 +132,7 @@ The free plugin supports **sequential progression** (each lesson unlocks after t
     <span class="pro-callout__title">Drip + drip notifications + prerequisites</span>
   </div>
   <p class="pro-callout__desc">Date-based, X-days, and cohort drip — plus "lesson unlocked" emails — live in the <strong>Content drip</strong>, <strong>Drip notifications</strong>, and <strong>Prerequisites</strong> add-ons.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock drip &amp; cohorts →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock drip &amp; cohorts →</a>
 </div>
 
 ## Quizzes & assessment
@@ -147,7 +147,7 @@ Free: **multiple choice**, **true / false**, **short answer**, **fill in the bla
     <span class="pro-callout__title">Question banks &amp; advanced quizzes</span>
   </div>
   <p class="pro-callout__desc">Question banks, randomization, random pools per learner, and advanced types are part of the <strong>Advanced quiz types</strong> add-on.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock advanced quizzes →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock advanced quizzes →</a>
 </div>
 
 ### Do you support assignments?
@@ -162,7 +162,7 @@ Yes — basic in free (file upload + pass / fail). Advanced (rubrics, restricted
     <span class="pro-callout__title">Gradebook</span>
   </div>
   <p class="pro-callout__desc">The <strong>Gradebook</strong> add-on consolidates quiz scores and graded assignments into a per-learner / per-course view, with export and drilldown.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock the gradebook →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock the gradebook →</a>
 </div>
 
 ## Certificates
@@ -177,7 +177,7 @@ Yes — the free plugin issues certificates on course completion using two prese
     <span class="pro-callout__title">Advanced certificates with QR verification</span>
   </div>
   <p class="pro-callout__desc">The <strong>Advanced certificates</strong> add-on adds a drag-and-drop builder, more merge fields, and QR codes that link to a public verify page.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock advanced certificates →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock advanced certificates →</a>
 </div>
 
 ### Can certificates be verified externally?
@@ -212,7 +212,7 @@ Yes — text domain is `sikshya` (free) and `sikshya-pro` (Pro). Loco Translate,
     <span class="pro-callout__title">Multilingual (WPML / Weglot)</span>
   </div>
   <p class="pro-callout__desc">The <strong>Multilingual</strong> add-on registers Sikshya strings for translation in WPML / Weglot.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock multilingual →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock multilingual →</a>
 </div>
 
 ## Performance

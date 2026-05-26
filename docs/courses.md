@@ -29,7 +29,7 @@ Click any row to **Edit in builder**. Tick rows for **Bulk actions**: Move to tr
     <span class="pro-callout__title">Manage course staff (multi-instructor)</span>
   </div>
   <p class="pro-callout__desc">When the <strong>Multi-instructor</strong> add-on is on, each row gets a <strong>Manage staff</strong> action so you can add co-instructors, set roles (Owner / Editor / Grader), and split revenue.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock multi-instructor →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock multi-instructor →</a>
 </div>
 
 ## The Course Builder — 4 tabs
@@ -108,7 +108,7 @@ How learners pay and who can join.
     <span class="pro-callout__title">Course bundles &amp; subscriptions</span>
   </div>
   <p class="pro-callout__desc">Sell several courses for one bundled price (Course Bundles add-on), or charge monthly / yearly recurring fees for member-only access (Subscriptions add-on).</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock pricing options →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock pricing options →</a>
 </div>
 
 ### Who can sign up?
@@ -161,7 +161,7 @@ You'll see an **outline** down the left and a **builder** on the right.
     <span class="pro-callout__title">Live classes, SCORM, and H5P</span>
   </div>
   <p class="pro-callout__desc">Pin a Zoom or Google Meet URL to a lesson so learners always click the right link (Live classes add-on). Or embed a packaged SCORM / H5P interactive (SCORM/H5P add-on).</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock these lesson types →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock these lesson types →</a>
 </div>
 
 ### Quizzes
@@ -185,7 +185,7 @@ Free question types:
     <span class="pro-callout__title">Advanced quiz types &amp; question banks</span>
   </div>
   <p class="pro-callout__desc">Reuse questions across many quizzes from a central <strong>Question bank</strong>. Add advanced question types, randomize order, draw a random pool of questions per learner, or shuffle answers each attempt — all in the <strong>Advanced quiz types</strong> add-on.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock advanced quizzes →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock advanced quizzes →</a>
 </div>
 
 ### Assignments
@@ -198,7 +198,7 @@ Each assignment has a title, description, due date, and a file-upload field for 
     <span class="pro-callout__title">Advanced assignments &amp; gradebook</span>
   </div>
   <p class="pro-callout__desc">Score against a rubric, restrict the file types learners can upload, allow resubmissions, and see a per-learner / per-course grade view with the <strong>Advanced assignments</strong> + <strong>Gradebook</strong> add-ons.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock grading workflows →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock grading workflows →</a>
 </div>
 
 ## Tab 4 — Course options
@@ -239,7 +239,7 @@ Final settings: visibility, completion rules, reviews, certificates.
     <span class="pro-callout__title">Advanced certificates with verification</span>
   </div>
   <p class="pro-callout__desc">Build certificates with a drag-and-drop designer, more merge fields (instructor, score, serial), and add a <strong>QR code</strong> that links to a public verify page so anyone can confirm authenticity.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Unlock advanced certificates →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Unlock advanced certificates →</a>
 </div>
 
 ## Categories

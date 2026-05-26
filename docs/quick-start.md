@@ -72,7 +72,7 @@ If your courses are **free**, skip to Step 4. Otherwise:
     <span class="pro-callout__title">Need Stripe, Razorpay, Mollie, Paystack, Square, Authorize.Net, or Bank Transfer?</span>
   </div>
   <p class="pro-callout__desc">These gateways are part of <strong>Sikshya Pro</strong>. You'll see them listed in <span class="screen-path">Settings → Payment</span> with a <strong>PRO</strong> badge — enabling them requires an active Pro license.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Compare Pro plans →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Compare Pro plans →</a>
 </div>
 
 The full gateway-by-gateway guide lives on the [Payments](/payment-settings) page.
@@ -135,5 +135,5 @@ That's a working LMS.
     <span class="pro-callout__title">Drip courses for cohorts and paced programs</span>
   </div>
   <p class="pro-callout__desc">Want to release lessons by date, X-days-after-enrollment, or per cohort instead of "complete in order"? That's the <strong>Content drip</strong> add-on.</p>
-  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya/#pricing">Upgrade to Sikshya Pro →</a>
+  <a class="pro-callout__cta" href="https://mantrabrain.com/plugins/sikshya-lms/pricing/">Upgrade to Sikshya Pro →</a>
 </div>
