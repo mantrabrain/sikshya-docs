@@ -125,4 +125,4 @@ If you want a paper trail of payloads:
 
 If you have questions or want a copy of the data we hold for your `instance_id`, reach out via the [Support](/support) page or open a ticket from <span class="screen-path">Sikshya → Help</span>.
 
-Reference: this page mirrors the upstream privacy notice at [docs.mantrabrain.com/sikshya-wordpress-plugin/which-types-of-data-are-being-tracked](https://docs.mantrabrain.com/sikshya-wordpress-plugin/which-types-of-data-are-being-tracked/).
+Reference: this page mirrors the upstream privacy notice at [sikshya.mantrabrain.com/docs/which-types-of-data-are-being-tracked](https://sikshya.mantrabrain.com/docs/which-types-of-data-are-being-tracked/).

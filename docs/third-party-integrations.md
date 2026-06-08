@@ -15,9 +15,11 @@ Sikshya Pro is a separate plugin you install on top of the free Sikshya LMS. Aft
 
 License plans control which add-ons you can turn on:
 
-- **Starter** — entry-level paid tier.
-- **Growth** — most use cases.
-- **Scale** — agency, enterprise, marketplace.
+- **Starter** ($99/yr · $349 lifetime · 1 site) — the essential Pro features for a single site.
+- **Growth** ($149/yr · $499 lifetime · 1 site) — everything you need to scale revenue and teams.
+- **Scale** ($299/yr or $599/yr for 15 sites · $999 / $1,799 lifetime) — all 31 Pro add-ons unlocked.
+
+> Year-1 prices use a launch discount. Renewals go back to list price (no renewal hike beyond list). Lifetime is one payment, never discounted. Every paid plan includes a 14-day refund.
 
 Below is every add-on with what it does, where it lives in the admin, and an "Upgrade" link.
 

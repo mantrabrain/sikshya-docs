@@ -25,6 +25,24 @@ No for day-to-day course building. Developers can extend Sikshya with [hooks and
 
 Sikshya is the free plugin. Sikshya Pro is a separate plugin that requires Sikshya to be installed first. Pro unlocks licensed add-ons and premium gateways.
 
+### How much does Sikshya Pro cost?
+
+Three tiers, yearly or lifetime:
+
+- **Starter** — $99/yr (renews at $149) or $349 lifetime. 1-site licence.
+- **Growth** — $149/yr (renews at $199) or $499 lifetime. 1-site licence.
+- **Scale** — $299/yr (renews at $399) or $999 lifetime for a 1-site licence; $599/yr (renews at $799) or $1,799 lifetime for a 15-site licence.
+
+Year-1 prices use a launch discount. Renewals go back to list price (no renewal hike beyond list). Lifetime is one payment, never discounted. See [pricing](https://mantrabrain.com/plugins/sikshya-lms/pricing/) for the full feature matrix.
+
+### Can I get a refund on a Sikshya Pro licence?
+
+Yes — every paid plan includes a **14-day refund**. Email us within 14 days of purchase and we'll refund the full amount, no exit survey. The free Sikshya plugin keeps working forever regardless.
+
+### Can I upgrade between Pro tiers later?
+
+Yes. Move from Starter → Growth, Growth → Scale, or Scale 1-site → Scale 15-site any time. We credit the unused portion of your current licence against the upgrade. Lifetime plans upgrade by paying the difference.
+
 ### What URLs does Sikshya create?
 
 | URL              | What it shows                       |

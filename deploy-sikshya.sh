@@ -1,20 +1,23 @@
 #!/bin/bash
-
-# Deploy Sikshya Documentation to docs.mantrabrain.com
-# This script builds and deploys Sikshya docs to the existing docs site structure
+#
+# Build the Sikshya documentation locally.
+#
+# Deployment is now handled by Netlify directly from this repo (see
+# `netlify.toml`); pushing to the default branch triggers a build and
+# publishes to https://sikshya.mantrabrain.com/docs/. This script is
+# kept around for cases where you need a local production build
+# (preview, smoke test, manual sync).
+#
+set -euo pipefail
 
 echo "🚀 Building Sikshya documentation..."
-
-# Build the documentation
 npm run docs:build
 
-echo "📁 Creating sikshya-wordpress-plugin directory..."
-mkdir -p ../sikshya-mantrabrain-docs/sikshya-wordpress-plugin
-
-# Copy built files to the correct directory structure for docs.mantrabrain.com
-cp -r docs/.vitepress/dist/sikshya-wordpress-plugin/* ../sikshya-mantrabrain-docs/sikshya-wordpress-plugin/
-
-echo "✅ Sikshya documentation ready for deployment at:"
-echo "📁 ../sikshya-mantrabrain-docs/sikshya-wordpress-plugin/"
+echo "✅ Local build complete."
+echo "📁 Output directory: docs/.vitepress/dist/"
 echo ""
-echo "🌐 This will be accessible at: https://docs.mantrabrain.com/sikshya-wordpress-plugin/"
+echo "🌐 Production URL (deployed via Netlify):"
+echo "   https://sikshya.mantrabrain.com/docs/"
+echo ""
+echo "ℹ️  To preview the built site locally:"
+echo "   npm run preview"

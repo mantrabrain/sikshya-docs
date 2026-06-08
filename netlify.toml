@@ -9,19 +9,30 @@
   to = "/docs/:splat"
   status = 200
 
-[[redirects]]
-  from = "/plugins/sikshya/*"
-  to = "/plugins/sikshya/:splat"
-  status = 200
-
+# Legacy paths from the old `docs.mantrabrain.com/sikshya-wordpress-plugin/`
+# host. Any visitor still hitting those URLs is now 301-forwarded to the
+# new `/docs/` base on `sikshya.mantrabrain.com`.
 [[redirects]]
   from = "/sikshya-wordpress-plugin/*"
-  to = "/plugins/sikshya/:splat"
+  to = "/docs/:splat"
   status = 301
 
 [[redirects]]
   from = "/sikshya-wordpress-plugin"
-  to = "/plugins/sikshya/"
+  to = "/docs/"
+  status = 301
+
+# Older intermediate redirect that pointed at the previous plugin slug
+# (/plugins/sikshya/...). Forward to the new docs base too so nothing
+# 404s during the URL migration.
+[[redirects]]
+  from = "/plugins/sikshya/*"
+  to = "/docs/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/plugins/sikshya"
+  to = "/docs/"
   status = 301
 
 [[headers]]
@@ -34,7 +45,7 @@
     Permissions-Policy = "geolocation=(), microphone=(), camera=()"
 
 [[headers]]
-  for = "/plugins/sikshya/*"
+  for = "/docs/assets/*"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 

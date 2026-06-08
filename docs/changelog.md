@@ -15,7 +15,7 @@ This page tracks user-relevant changes for **Sikshya** (free) and **Sikshya Pro*
 - **Plugin listing title** aligned with WordPress plugin directory expectations.
 - **Screenshot captions** tuned for LMS and checkout keywords.
 - **Installation and security reporting** guidance clarified.
-- **Plugin metadata:** version bump; default documentation URLs in Plugin API / admin bootstrap now point to `https://docs.mantrabrain.com/sikshya-wordpress-plugin/`.
+- **Plugin metadata:** version bump; default documentation URLs in Plugin API / admin bootstrap now point to `https://sikshya.mantrabrain.com/docs/`.
 
 **Upgrade notice:** Documentation and WordPress.org readme update — improved plugin directory copy, Mantrabrain documentation links, expanded FAQ, and privacy / third-party transparency. No breaking runtime changes expected; clear any full-page caches after update if your host caches plugin metadata.
 

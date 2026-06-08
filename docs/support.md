@@ -144,7 +144,7 @@ We prioritize features that solve a problem affecting many sites, fit Sikshya's 
 
 ## Useful links
 
-- 📖 [Sikshya documentation](https://docs.mantrabrain.com/sikshya-wordpress-plugin/) — official docs hub.
+- 📖 [Sikshya documentation](https://sikshya.mantrabrain.com/docs/) — official docs hub.
 - 🧪 [Try Sikshya in Playground](https://try.new/plugins/sikshya/) — kick the tires without installing locally.
 - 🛒 [Buy Sikshya Pro](https://mantrabrain.com/plugins/sikshya-lms/pricing/) — license plans.
 - 👥 [Facebook Community](https://www.facebook.com/groups/sikshyalms/) — peer chat.
